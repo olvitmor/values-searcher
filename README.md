@@ -51,10 +51,11 @@ Cmd
 ```
 Output
 ```bash
+    Attemting to read config.json
     Reading...
     Array:  [ -3, -1, 0, 2, 6 ]
     Value:  -1
-    Exec: 0.223ms
+    Exec: 0.127ms
     Result values: [ -3, 2 ]
 ```
 
