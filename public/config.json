@@ -1,0 +1,14 @@
+{
+    "UseRandomArr": false,
+    "RandMin": -25,
+    "RandMax": 25,
+    "RandLen": 50,
+    "TargetValue": -1,
+    "DefaultArray": [
+        -3,
+        -1,
+        0,
+        2,
+        6
+    ]
+}
